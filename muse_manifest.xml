@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sweetheart.github.io" resolutions="1x" timestamp="1523981136027">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sweetheart.github.io" resolutions="1x" timestamp="1523983882070">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4060163224" ref="index"/>
@@ -16,12 +16,12 @@
     <file name="u160-4.png" crc="497011777" ref="index"/>
     <file name="u155-3.png" crc="3949965594" ref="index"/>
     <file name="u167-4.png" crc="158588086" ref="index"/>
-    <file name="u171-79.png" crc="294120947" ref="index"/>
+    <file name="u171-79.png" crc="3902088587" ref="index"/>
     <file name="u175-4.png" crc="270591326" ref="index"/>
     <file name="u180-51.png" crc="510728155" ref="index"/>
     <file name="ufth9wi.jpg" crc="4265751961" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4098593432" seo="true" mt="1523980516004" redirect="true"/>
+  <file name="index.html" crc="397049840" seo="true" mt="1523983459822" redirect="true"/>
 </manifest>
