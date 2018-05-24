@@ -1,16 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sweetheart.github.io" resolutions="1x" timestamp="1523983882070">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sweetheart.github.io" resolutions="1x" timestamp="1527198996148">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4060163224" ref="index"/>
+    <file name="index.css" crc="4115754586" ref="index"/>
+    <file name="game.css" crc="4193274290" ref="game"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game"/>
+    <file name="museutils.js" crc="340535759" ref="index:game"/>
+    <file name="whatinput.js" crc="86476730" ref="index:game"/>
+    <file name="museconfig.js" crc="310584261" ref="index:game"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:game"/>
+    <file name="require.js" crc="7928878" ref="index:game"/>
   </folder>
   <folder name="images">
     <file name="u160-4.png" crc="497011777" ref="index"/>
@@ -22,6 +23,26 @@
     <file name="ufth9wi.jpg" crc="4265751961" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u216-4.png" crc="4015260979" ref="game"/>
+    <file name="u219-7.png" crc="474733297" ref="game"/>
+    <file name="2___200_favorite_disney_characters__updated__by_thezoologist-dapdirm.jpg" crc="4025107066" seo="true" ref="game">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="cheese.png" crc="3867820734" seo="true" ref="game">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="1496676736-rounded-high-ultra-colour08-water-melon_84634.png" crc="228234861" seo="true" ref="game">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="banana-icon-256_icon-iconscom_75209.png" crc="3866848861" seo="true" ref="game">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="u261-4.png" crc="4073886019" ref="game"/>
   </folder>
-  <file name="index.html" crc="397049840" seo="true" mt="1523983459822" redirect="true"/>
+  <file name="index.html" crc="80258175" seo="true" mt="1527198943791" redirect="true"/>
+  <file name="game.html" crc="252360990" seo="true" mt="1527198752052" redirect="true"/>
 </manifest>

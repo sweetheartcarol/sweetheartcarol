@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sweetheart.github.io/index.html</loc>
-    <lastmod>2018-04-17</lastmod>
+    <lastmod>2018-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sweetheart.github.io/game.html</loc>
+    <lastmod>2018-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sweetheart.github.io/images/2___200_favorite_disney_characters__updated__by_thezoologist-dapdirm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sweetheart.github.io/images/cheese.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sweetheart.github.io/images/1496676736-rounded-high-ultra-colour08-water-melon_84634.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sweetheart.github.io/images/banana-icon-256_icon-iconscom_75209.png</image:loc>
+    </image:image>
   </url>
 </urlset>
